@@ -3,7 +3,7 @@
 @section("content")
     <div class="row">
         <div class="col-lg-12">
-            <div class="row">
+            <div class="row mt-2">
                 <div class="col-lg-12">
                     <div class="callout callout-info">
                         <p style="font-size: 1.2rem">
